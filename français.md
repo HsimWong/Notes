@@ -30,3 +30,30 @@ i 	lit
 y	style
 
 île岛屿		lit床 	qui谁		
+
+Common çaca
+ça va bien
+ça va mal
+ça va comme ci comme ça
+
+Il fait beau
+Il pleut 
+
+rivière
+rose
+
+fête	faire
+photo	physique
+
+ça 			this, that
+français	french
+dix			10
+six			6
+garçon		boy
+homme		male
+légume		vegetable
+guerre		warfare
+
+désolé		sorry
+zèbre		zebra
+
