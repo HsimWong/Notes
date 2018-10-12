@@ -170,3 +170,12 @@ vous vous apellez
 5. C'est le photographe espagnol
 6. C'est le dentiste italien
 
+Quel est votre nom?
+- Je m'appelle Thurame.
+
+Quel est votre âge?
+- J'ai 25 ans
+
+18810100026
+dix-huit quatre-vingt et un zero un zero zero zero vingt-six
+
