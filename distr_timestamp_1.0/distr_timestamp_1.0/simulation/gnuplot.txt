@@ -1,0 +1,13 @@
+set logscale
+set data style linespoints
+
+set title "Timestamp Service Simulation"
+set xlabel "Round-trip time (usec)"
+set ylabel "usec"
+
+set term post eps
+set output 'plot.eps'
+
+plot "plot.dat" using 2:3 title 'Avg Skew', \
+     "plot.dat" using 2:4 title 'Avg Error Bound', \
+     "plot.dat" using 2:5 title 'Max Error Bound'
